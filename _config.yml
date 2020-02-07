@@ -5,9 +5,9 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: LOFFER
+name: Pattern Recognition
 # 描述/签名
-description: 一个可以fork的博客
+description: Recognize and apply patterns
 
 #
 # 下面的设定都是可选的
@@ -22,13 +22,13 @@ favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/fav
 
 # 菜单中的按钮
 navigation:
-  - name: 首页
+  - name: Home
     url: /
-  - name: 关于
+  - name: About
     url: /about
-  - name: 归档
+  - name: Archive
     url: /archive
-  - name: 标签
+  - name: Tags
     url: /tags
 
 # 每页的文章数
@@ -39,13 +39,13 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo: https://weibo.com/towerjoo #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: fromendworld@outlook.com 
+  email: jackzhu2050@gmail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: FromEndWorld/loffer #https://github.com/<>
+  github: https://github.com/towerjoo #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
@@ -56,7 +56,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2019 来自中世界
+footer-text: Copyright (c) 2020 Jack Zhu
 
 # 评论，注意，请不要同时添加多种不同的评论区
 
@@ -79,7 +79,7 @@ url:
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /LOFFER
+baseurl: /
 
 
 #
