@@ -8,7 +8,7 @@ It is contradictory for me regarding privacy and share. I love to share a lot of
 
 While there's never a black or a white, it's always grey, which means I might tend to stay where I am now while struggling to keep a good balance.
 
-I wrote a post about [why this blog](/_posts/2020-02-07-why-blog.md) and also has a [Chinese blog](http://towerjoo.github.io/).
+I wrote a post about [why this blog](/_posts/2020-02-07-why-blog.md) and also has a [Chinese blog](https://towerjoo.github.io/).
 
 If you want to reach me, check out the social handlers in the left panel of the web page.
 
