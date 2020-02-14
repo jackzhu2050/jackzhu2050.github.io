@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Known World
-date: 2020-02-07
+date: 2020-02-04
 Author: Jack Zhu
 tags: [novel, race]
 comments: True
