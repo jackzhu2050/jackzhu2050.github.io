@@ -1,3 +1,6 @@
+"""
+migrate my old posts.
+"""
 import os
 import re
 import shutil
