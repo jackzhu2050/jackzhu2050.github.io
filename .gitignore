@@ -1,2 +1,4 @@
 .sass-cache/
 _site/
+credential.py
+__pycache__/
