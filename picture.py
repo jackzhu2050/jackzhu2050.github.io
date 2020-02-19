@@ -105,7 +105,7 @@ def get_pictures(query, source=PictureSource.UNSPLASH, page=1):
     return pics
 
 
-def download_and_process(url, keyword):
+def download_and_process(url, keyword, overwrite=False):
     """download the image and resize
     and save to the correct directory
     """
@@ -121,7 +121,7 @@ def download_and_process(url, keyword):
     suffix = 1
     while True:
         path = os.path.join(ROOT, "images", filename + '.png')
-        if not os.path.exists(path):
+        if not os.path.exists(path) or overwrite:
             break
         filename = orig_filename + '-' + str(suffix)
         suffix += 1
@@ -136,9 +136,15 @@ if __name__ == "__main__":
                         dest='keyword',
                         type=str,
                         help='search term')
+    parser.add_argument('--overwrite',
+                        dest='overwrite',
+                        action="store_true",
+                        default=False,
+                        help='whether to overwrite the image if exists')
 
     args = parser.parse_args()
     keyword = args.keyword
+    overwrite = args.overwrite
     if keyword is None:
         print("keyword is required")
         parser.print_help()
@@ -147,4 +153,4 @@ if __name__ == "__main__":
         pictures = get_pictures(keyword, source=PictureSource.PIXABAY)
         pic = pictures[0]
         url = pic['download_url']
-        download_and_process(url, keyword)
+        download_and_process(url, keyword, overwrite)
