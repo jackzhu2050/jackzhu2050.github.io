@@ -29,3 +29,8 @@ Looking at my kid who is drawing a picture outside my study, I am very worried a
 But what might be the next? 
 
 Who can tell and who can be sure? 
+
+---
+Edited on March 17th. SSE has plummeted by over 3.4% and SZSE  by 5.34%, which were beyond my expectations. The arguments above to predict a good rally today have been proved to be nonsense, and the lesson is cruel with money loss. The turmoil is continuing and DJIA fell by 8.8% at 1:06AM Chinese time.
+
+Is that a crisis? 
