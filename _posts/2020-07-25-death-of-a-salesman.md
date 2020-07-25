@@ -11,7 +11,7 @@ This play I've been heard for so long, and I always wonder what the story might 
 
 *Arthur Miller* is such an awesome playwright, who could put so much information, life, conflict, suspense, cruelty, love, and more in such a small book. The length is thin, while the feeling is thick and heavy. It could easily get identified with me and my life.
 
-![salesman](images/salesman.jpg)
+![salesman](../images/salesman.jpg)
 
 The *Salesman* is very ordinary like every ordinary man around us. We spend a lot of money to buy a house with a very high mortgage which is like a mountain over our shoulder with decades not years. It's with you for your nearly entire life and reminds you every month about a person who will knock your door and ask you a pile of money. Looking ahead, it's limitless, and the end is far far away which seems unreachable. We live our life very carefully, and work very hard to be able to pay the mortgage to expect the final ownership of that small apartment, needless to say the 70 years and no one knows what will happen after that.
 
