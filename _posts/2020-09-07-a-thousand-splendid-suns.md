@@ -17,4 +17,6 @@ Yes, I am always a proponent to those universal values, and I always believe tha
 
 Laila finally made her way back to Afghanistan, just like the scientists, professors who came back to China after 1978 to contribute their specialties to the *new* country. She starts small, bearing the hope of Mariam. She is steady and holds great faith with the bravery and fortitude from Mariam. She might face another revolt, another tumult, or view again the bad things happening, but she will never get beaten down to the ground. Even till today of the year 2020, we can see the casualty report in night news, and that country is still not in full peace and possibly will not be as we can see in future. I feel very sad for the people there.
 
+![afghanistan](../images/afghanistan.png)
+
 Covid-19 is still haunting around the world. People are struggling, and might live short in the whole year, and might need several years ahead to get a complete recovery. The virus might be out of our control in the first place, but the war and the fighting are within our control undoubtedly. Can we bring peace to the ones who are still suffering and keep the peace for the ones who are enjoying it?
