@@ -1,0 +1,28 @@
+---
+layout: post
+title: Measure what matters
+date: 2020-10-13
+Author: Jack Zhu
+tags: [OKR, management]
+comments: true
+---
+
+Now it's time to read some non-fictions whether it's about the management or it's a technical book. It's a good chance that my boss just asks all employees to read the book *Measure what matters* from the famous *John Doerr*. Hence, I start to pick the *OKR* up even though I've heard it for a long while but never had the chance to study it and practice in a systematic way.
+
+Management is always difficult since the targets are humans instead of some static machines. It is more an art -- means there's a lot of gray space and flexibility within -- than a science. It's easy and enticing to stick to the KPI or other number-driven approach, which might end up being bad or even the opposite, since the employees always have ways to compromise its initial goal. It becomes more challenging when the jobs are no longer physical but more intelligence involved, and it becomes harder to measure the output if measuring itself still makes sense.
+
+Another challenge is the measurement itself. Nowadays, companies are required to have more innovations to survive the highly competitive market. Innovation always comes hand in hand with risk or even *futility*, esp. when it's typically intangible. Therefore a dilemma turns up, which is how to balance the expected output and the possible nothing for the innovative commitment. It's not quantitative and most time intangible, so the executives and managers are in a very tricky and difficult position to make the call whether doing the stretching and ambitious innovative commitment.
+
+So a lot of brilliant guys in the industry and academia have been striving to find a solution. We've heard of a lot of methodologies whether it's *Mckinsey*'s or it's *Toyota* way. When a lot of high-tech companies appear in recent decades, a new methodology is needed more urgently to tackle the issues of the new era, including goal-setting, goal alignment within the organization, high turnover rate, the fast pace of product development, innovation hungry, etc. And then *Objective and Key Results(a.k.a OKR)* has appeared, and has been adopted by a bunch of companies, or even individuals, and governments.
+
+*Andrew Grove* in *Intel* might be the guy to coin this term, while the method has been around for a longer time. Like any other sophisticated ideas, it didn't take place in one day. With *Andrew*'s practice in *Intel* for a long time, the author *Johe Doerr* experienced it and learned it and grasped it, and then later he becomes the evangelist of OKR and introduced it to a bunch of companies. And then it finally becomes materialized as a printed book with more systematic thinking and examples about how to practice it in the real world.
+
+![concert](../images/concert.png)
+
+I enjoy reading this book very much, and love the idea of OKR. But I still want to mention some possible issues in practice. The biggest issue is about cooperation(I guess this might be the biggest issue of management all the time). OKR requires the concerted efforts to reach the *objectives* and encourages cross-functional cooperation among different teams and departments. We all know how difficult that is in reality. We're human beings and some inherent flaws and non-aligned interests might preclude the best things from happening. So the author puts a lot of emphasis on the culture and he mentioned to make the real progress until *everyone buys in and makes full commitment*. Does that look familiar? yes, it still requires so many uncontrolled factors to involve when practicing the methodology. Therefore, *buy-in* is not just a verbal promise, but needs to enforce over the course, by introducing the OKR setting process(to avoid the low-value objectives, etc), making the OKRs public and accessible to all, one-on-one checking in frequently(part of *continuous performance management* to allow course correcting), tracking the progress, adjusting the resources to achieve the objective, the final review process, etc.
+
+As another pillar of the methodology(though we normally call it OKR to mean both), *CPM*(continuous performance management) or CFR(conversation, feedback, recognition) is very important to practice OKR. Instead of doing the annual employee rating, weekly check-in could help align the goals between manager and contributor(and also the company's), maintain the morale, solve the contributor's problems, allow the managers to coordinate the resources, and ensure the progress is on the track. It should not be bound to the employees' compensation, which might discourage employees to avoid some ambitious and more stretching OKRs, which could harm the company's goal eventually.
+
+So, it's not just to *say* we adopt the OKR methodology in our company but make sure it works as it's supposed to by carrying on the corresponding practices. Otherwise, it will easily go superficial and everyone just pretends to be using OKRs while nothing nice could turn up and get improved.
+
+After finishing reading the book, I am looking forward to seeing how it works in practice in our company as one of the firsthand contributors. I will try my best to carry on and avoid the traps, and also learn over the course. It's never an easy way esp. for a group of people striving for the same goal by collaboration, but it's possible and can make something amazing if we do it right.
