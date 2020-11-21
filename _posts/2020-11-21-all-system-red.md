@@ -1,6 +1,6 @@
 ---
 layout: post
-title: All Systems Red: The Murderbot Diaries
+title: All Systems Red (The Murderbot Diaries)
 date: 2020-11-21
 Author: Jack Zhu
 tags: [sci-fi]
