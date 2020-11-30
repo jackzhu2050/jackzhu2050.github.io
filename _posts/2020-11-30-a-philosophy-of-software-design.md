@@ -18,3 +18,5 @@ Another important reason is from the culture. From the standpoint of the boss, w
 So either we're too lazy or too self-conceited, or we are wise enough to pick the tactical mindset, we give up the chance of self-growing as a developer, and also the fun and joy of the developing. Designing a system is the most creative part of a project, which also means it's the most interesting and enjoyable part. And when it comes to implementation, it's still important but less exciting since it's to carry out the design and materialize them as code. Think about the outsourcing of the software industry, most programmers who work in an outsourcing project barely have the opportunity to change any design, which they lose the opportunity to grow themselves accordingly.
 
 Hence, it's *wise* to follow the *strategic programming mindset* to benefit the system and the  company, and also benefit ourselves as a programmer.
+
+![note](../images/The%20Philosophy%20of%20Software%20Design.png)
