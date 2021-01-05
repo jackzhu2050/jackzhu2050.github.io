@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Computer Networking: A top-down approach
+title: "Computer Networking: A top-down approach"
 date: 2021-01-05
 Author: Jack Zhu
 tags: [computer-science, computer-networking]
