@@ -3,3 +3,4 @@ _site/
 credential.py
 __pycache__/
 .idea
+.lsp
