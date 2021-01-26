@@ -1,0 +1,24 @@
+---
+layout: post
+title: Uncanny Valley
+date: 2021-01-26
+Author: Jack Zhu
+tags: [memoir, silicon valley, career]
+comments: true
+---
+
+*Silicon Valley* is the *Mecca* for computer professionals, like *Tsinghua University* for a Chinese student. It is there, distant and remote, but also glittering and tangible. We hear news from it, and we know that some famous compaines and great guys are around there building awesome things. And then some startups went public and some guys became rich. It is like a cycle, which is repeating itself nonstop.
+
+![silicon valley](../images/silicon-valley.png)
+
+Far from *Silicon Valley*, we have many cities in China that are advertising them as *Chinese Silicon Valley*. That's no surprise. Like copying great products, cities are also copyable. Among those Chinese cities, *Zhongguancun* might resemble the original the best. I was lucky that I was there when the city was growing to become the Internet innovation center of China. I was receiving my postgraduate education near there then, and every day I was inundated with new ideas and new startups. Ten minutes' walk from my school is *Tsinghua University*, and there were so many young guys there with passion and excitement. Some big names like Baidu or Tencent made good examples for newcomers. Guys from big companies, professors from universities, students from everywhere sensed the opportunity and attempted to grab.
+
+Recruiting ads for programmers were everywhere, esp. in a famous BBS. Therefore, I joined one to get involved in the big *movement*. It was a social gaming company, and we worked hard and moved quickly. Years later, the company was a huge success and was acquired under a sky-high price. And I left the company and Beijing before its acquisition.
+
+*Silicon Valley* is much smaller in terms of size and population comparing to Beijing. But the density of talents and innovation is much bigger. I don't bother mentioning some famous names like *Intel*, *Apple*, *Google*, etc. The famous incumbents are a lot, while the startups are much more. Dropouts from universities, serial entrepreneurs, venture capitalists and others are the building blocks of the ecosystem and the fundamental dynamics of this city. Young and ambitious guys are flowing in, while guys who feel overwhelmed and tired are flowing out as normal as they seem.
+
+When they seem normal, they might not. Therefore, the author moved to *Silicon Valley* from *New York City*, moved from a literature editor to be a *customer support*. It might seem alien at first glance, while the west is so wild that you could always find a place for your expertise. Making decent money, making geek friends, feeling the city, talking about the tech, attending the wild parties, are inevitable when you enter the gate. As an insider of the tech product, which is used by millions of people around the world, the feeling is different, which gives you an illusion that you gain a great power to influence, but it always ends up being a delusion and we are just an unimportant piece. The author doesn't get lost or get mutated by the culture, while she still keeps her eyes open to feel and to reflect. Whether those young guys deserve the wealth they gather in a very short time, or whether what they are building could make a better world, or whether how they grow the company and user base justifies are all difficult to answer. She quitted eventually.
+
+I remembered one day when I was crossing an overbridge, I saw a very old woman who was kneeling down and begging money from passers-by. She buried her head under her white hair without uncovering any part of her face. She was groaning with a very low sound. It was deep winter and it was frozen. I hesitated for a few seconds and I felt terrible. It's surely unfair for an old woman to undertake such misery in such a bad weather after decades' hardworking(I am sure she is not a lazy person), while some young guys earn a huge amount of money without benefiting anyone or the society as a whole. The worse thing is that the inequality will widen over the course of the technology advancement. It's not just in the *Sci-fi* about the coming of intelligent robots, or self-driving cars, but they've already been deployed in some cities around the world. Once people don't have jobs, they won't be able to earn the minimum money their family needs unless some governmental policies will turn up accordingly and effectively, which is not always the case.
+
+In general I am an optimistic man for a bright future, but for myself, I am also deeply concerned about the society that robots are everywhere and intelligent. It's not about whether robots would take over human beings to rule the world, but the inequality between the rich and the poor, the path and opportunity might become less accessible for the next generation. How to prepare for such a society is a tough and pressing question.
