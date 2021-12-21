@@ -5,6 +5,7 @@ date: 2020-02-07
 Author: Jack Zhu
 tags: [whistleblower, coronavirus, wuhan]
 comments: true
+published: false
 ---
 
 We're still confined in our house for days. I don't blame on anyone, while cannot help pondering what might be different if the government could pay more attention to the doctor's claim a month ago.
