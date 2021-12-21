@@ -30,6 +30,8 @@ navigation:
     url: /archive
   - name: Tags
     url: /tags
+  - name: 中文
+    url: https://blog-cn.jackzhu.info/
 
 # 每页的文章数
 paginate: 8
