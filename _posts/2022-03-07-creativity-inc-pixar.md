@@ -1,0 +1,26 @@
+---
+layout: post
+title: Creativity. Inc.
+date: 2022-03-07
+Author: Jack Zhu
+tags: [business, creativity, Steve Jobs]
+comments: true
+---
+
+I have to admit that I am a big fan of Pixar's animations. And nearly each year, it's always a wonderful time when I could go to a theater and enjoy their latest movie, esp. after I have a little daughter sitting beside. And also we have our domestic animations like *Bear* each year in the sprint festival holiday, and it's always a sequel. On the perspective of originality and creativity, that might prove a lack of such traits in those sequels, esp. when it grows to 5th or 6th and more. It also proves to be a safe way to go ahead without risking the financial output, while at the same time, it just drains your reputation as a brand.
+
+Pixar could stay relevant and keep being creative is in someway a mystery for me before reading this book. I know they care about the quality, but it doesn't mean each release will reach a success. It's just like the gaming industry, and a hit has nearly nothing to do with the next game's success even though it might have a better financial position. Therefore, this mystery of a constant success fascinates me a lot. And also I know the involvement  of Steve Jobs in Pixar, but I don't know the detail and how much his commitment might go. So this book seems to be the best one to answer those questions.
+
+And it answers really well.
+
+![toy story](../images/toy-story.png)
+
+I used to work in a social gaming startup years ago and I know how difficult it is to do something related to creativity. Storytelling is no exception and movie making is even heavier and with a higher stake due to the people and money it requires. With passion and hard-working and without compromise to quality, the first movie could go as a hit, otherwise we won't hear its name. And then the team expands, and more projects are on the horizon. It's no longer an easy task to be able to extend all the great traits from the original team for the first hit movie to the new ones. And a lot of startups just go collapsed or mediocre after the first success. So it will become a culture thing instead of micro-management with harsh rules. And the author, the president of Pixar, managed to develop the culture in Pixar.
+
+What kind of culture fits the creativity it requires in movies industry? Candor is the answer from the author. It sounds very simple, but it's always difficult to put it into practice. It's easy to understand why candor is hard. Firstly, it's dangerous to the ones who are candid to speak, since typically candid comments are not compliments but some drawbacks, some real issues, some dark sides that we humans are wired to evade. And now you have to face it and to act upon it. If you are talking to a guy with a high rank with candor, he or she might get pissed and punish you in some way you don't expect. Secondly, candor sometimes comes with transparency. A lot of leaders are embracing such ways to allow employees to feel the ownership and involvement in the company. But there's no clear line between what to share and what not to. Holding back like this might make people feel the discounted *candor* which might discourage them.
+
+If companies are like nations, candor is not always welcome, which facing the harsh reality is not always the good way, esp. when you are in the middle of the ruling ladder and you want to climb up. Therefore, it's very rare and should be cherished when Pixar can achieve that impossible mission of candor. And then with great passion and the good feedback loop, each movie could be made with constantly high quality and the subsequent financial success, which in turn solidifies the culture and the constant pursuing of the high quality.
+
+Another question is about *Steve Jobs*, which is always a fascinating person. He made great achievements in both the 1st wave, i.e personal computers and also the 2nd wave(or you might say Internet is the 2nd), i.e smart phones. And I enjoy Apple's products very much so far, and that's why I have a family of their products. As the author stated in the book, he might be the guy who had worked longest with *Steve*, which is 26 years. Hence, he must be the guy who might be able to have a fuller understanding of that man. The key insight here, comparing to the famous biography, is *Steve*'s change over the years, and he became less aggressive and more considerate, esp. after his diagnosis of the cancer in 2003. He might be still more aggressive and pushy than normal people, while he was less *Steve* in the late years.
+
+After reading this book, I feel the candor from the author about revealing the challenges he encountered over the course of Pixar, and how he could manage it to keep a top company in creativity and make more hit movies. He seems to be also very modest and he didn't stress her own devotion and contribution to the company, while he gave credits to others like the famous John and other directors and also *Steve Jobs*. I believe what he did in Pixar is very important, and also we could learn a lot from his candid narratives in this book, at least one thing you can take away is that a wonderful product is not a godsend, but from honing and polishing and tweaking for days and nights from many people.
