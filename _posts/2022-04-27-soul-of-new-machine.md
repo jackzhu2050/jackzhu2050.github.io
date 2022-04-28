@@ -25,7 +25,7 @@ The founder of my then company surely shouldered huge pressure, esp. when our ga
 
 The interesting thing was that the company finally picked up and made a few hits(it's so difficult to make a hit in gaming market), and the founder became a billionaire and everyone complimented him as a genius and forgot we were almost bankrupt. Years later when the first several colleagues of the company gathered in Beijing, we talked about those days and the founder. We still made jokes about how he did things, but we all agreed that he was ambitious and aggressive but he also was a person to be able to achieve the goal recklessly.
 
-"I will definitely go with him if we would start a company again." A college who made the most jokes about the founder concluded and everyone else echoed.
+"I will definitely go with him if we would start a company again." A colleague who made the most jokes about the founder concluded and everyone else echoed.
 
 I wish I could read this book when I just graduated which might lend me some lessons about how things work, esp. for the startups. If it's new, it must be chaotic. The new thing is doomed to fail for 99% cases, but for the remaining 1%, it will be disruptive and become a huge success. But the thing is that you don't know which group you belong to, and probability tells you that you would nearly fall into the former group for sure. But a lot of guys are still trying their best to join and enjoy the new adventure like Columbus, Darwin and Einstein. Why is that? I guess that's because we're not just ruled by the probability, but also the enthusiasm and the passion of doing the new things and taking the big responsibility and pushing the new frontline and enjoying the challenge.
 
