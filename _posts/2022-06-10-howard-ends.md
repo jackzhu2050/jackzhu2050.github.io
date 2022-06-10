@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Howard Ends
+title: Howards End
 date: 2022-06-10
 Author: Jack Zhu
 tags: [classics, novel, life]
@@ -33,12 +33,12 @@ she didn't succumb too much, like she jumped out of the car, just like *Lady Bir
 Helen is more emotional and passionate comparing to her sister. Her love with Paul was the prologue of the whole story, which made
 the subsequent stories possible, e.g the relationship between Meg and Mrs. Wilcox, and the love between Meg and Mr. Wilcox. Her
 impulse to have one night with Leonard would finally took his life, while she might not be that sorry. Like her sister, she could do
-whatever she wanted. But it didn't apply to Leonard like men. He had to ask mercy around for money, for rent, or food. He might be able
+whatever she wanted. But it didn't apply to Leonard-like men. He had to ask mercy around for money, for rent, or food. He might be able
 to refuse the money from Helen to save his dignity, but the self-doubt and the cost of keeping his dignity were torturing him greatly.
 He died without knowing his son and Helen didn't tell him.
 
 Mrs. Wilcox loomed in the whole book even though she died very early. She seemed to know everything, even the things that were about to unfold.
-*Howard Ends* was in her will to give to Meg, which became true at the end, even though in a different and unexpected way. The relationship
+*Howards End* was in her will to give to Meg, which became true at the end, even though in a different and unexpected way. The relationship
 between her and Meg seemed to be fine, which seemed to be out of material world, but more a spiritual world. And they had the privilege to 
 enjoy that.
 
