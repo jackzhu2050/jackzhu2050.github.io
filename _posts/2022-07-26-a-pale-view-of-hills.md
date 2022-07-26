@@ -53,8 +53,8 @@ ashamed or embarrassed about anything I've done." Still *Frank* the woman's
 lover was never portrayed directly, but indirectly seemed to be a indecent man.
 We don't know how she ended up being where, the US or her uncle's big house.
 But we know, "I", moved to Britain and lived a brand new life which is
-obviously the opposite of what she used to approve. *Live whatever life you
-like." is the saying "I" said to "my" another daughter after my first daughter's
+obviously the opposite of what she used to approve. "Live whatever life you
+like." is the saying "I" said to "my" another daughter after "my" first daughter's
 suicide. The memory is vivid to "me", because it changed me so much and it made
 the present "me".
 
@@ -62,13 +62,14 @@ The two old men, i.e "my" father-in-law, and the noodle shop owner, are very
 interesting. They might be more old-school, and stick to something they weigh
 highly but no longer popular. It doesn't upset me since that's the norm and it
 always repeats. I like her father-in-law, is for his way of doing things, that
-Japanese. He tried to hide his feeling and convey it indirectly even when it's
+*Japanese* way. He tried to hide his feeling and conveyed it indirectly even when it was
 his son. His way of education might be out of date, but he wanted to ask and
 confirm the rationale behind it. He still tried to teach his son via chess when
-his son is already tired with it. Therefore, it's really brave for him to
+his son was already tired with it. Therefore, it was really brave for him to
 confront his student directly even though he didn't get what he really
-expected, because he knows clearly he couldn't count on his son. The shop owner
-is interesting for her attitude towards life. The bright son has died of the
+expected, because he knows clearly he couldn't count on his son to even write a
+inquiry letter. The shop owner
+is interesting for her attitude towards life. Her bright son has died of the
 bomb, and she was very sorry and sad, but she moved forward and kept the shop
 well. She surely is not the person our *heroine* approves and seems to get
 stuck there forever, but she seems to be happy and enjoys the life.
