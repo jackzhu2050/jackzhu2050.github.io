@@ -3,7 +3,7 @@ layout: post
 title: A Pale View of Hills
 date: 2022-07-26
 Author: Jack Zhu
-tags: [novel, kazuo-ishiguro, Japan, life]
+tags: [novel, Kazuo Ishiguro, Japan, life]
 comments: true
 ---
 
