@@ -14,11 +14,11 @@ that might make readers to assume it's about love only, but it is not.
 
 Life is short and also tough. That's why there's an ancient Chinese saying "To
 live peacefully and long is a bless", while it is surely uneasy to reach that
-*simple* goal. As long as 80 years, it seems to be long as a person's life
+*simple* goal. As long as 80 years, it seems to be long enough as a person's life
 length, while we feel it differently, just like something occurred in a
 fleeting moment. Suddenly, we are taller than our parents; we graduate from the
 colleges; we get married; we have kids; we are old. And we cannot do anything
-to change that.
+to slow that down.
 
 ![life](/images/life.png)
 
@@ -32,7 +32,7 @@ while we are still trying; and then the next generation; and then the next.
 
 Meaning is so abstract and intangible, and we might say it as BS. But a short
 life unfolding in front of us might be something worth making meaning out of.
-It is surely not just one way to go, but som many paths. We followed one of the
+It is surely not just one way to go, but so many paths. We followed one of the
 paths, and missed a million others, which is sad but unavoidable. We cannot
 compare and assume "what if", but only accept and have to make the tough
 decision again over the course. The wit doesn't seem to grow along with our
@@ -50,11 +50,11 @@ life might teach you something like luck, family, which are out of your control
 but play a more important role. Will you stay put instead and give up your
 fighting? The sadness is still there.
 
-One day, a monkey stood stright up and tried to walk using its both legs, and
+One day, a monkey stood straight up and tried to walk using its both legs, and
 fouled around. That curiosity made and defined us. Also with enough food, we
 started to think deeper and also in a longer term. We tried to improve the life
 of dogs and other animals even when they're just supposed to play a specific
-role. We tried to kill the discrimination whatever it's between races, or
+role for us. We tried to kill the discrimination whatever it's between races, or
 genders, or ages. We are not just for our *selfish* selves, but also for the
 species to be able to maintain and prosper. And I guess just like the monkey,
 those *students* might become less vulnerable and more capable and strong when
