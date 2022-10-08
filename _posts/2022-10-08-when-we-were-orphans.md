@@ -32,10 +32,10 @@ we remember those days that we have parents to take care of things and we just
 be around worrying nothing.
 
 And we also think about the moments when our parents were still young. It might
-an afternoon when you were about to go to school by riding a bicycle, father
-would always check the bike for you to ensure it was perfect in every piece,
+be an afternoon when I was about to go to school by riding a bicycle, father
+would always check the bike for me to ensure it was perfect in every piece,
 and tie the luggage and a bag of food tightly at the backseat of the bike,
-which would never fail on the way to school. I waived goodbye to them and they
+which would never fail me on the way to school. I waived goodbye to them and they
 watched me till I vanished into the distance. Or when I got home from school
 after a week, mother would always prepare me a very big bowl of noodle, and
 watched me to eat them all. I couldn't wait for mom's churning the noodle, so I
@@ -52,15 +52,15 @@ and close relationship, until at the end they walked through the damaged houses
 to look for his parents. 
 
 Of course, his mother was great and made so much sacrifice for him, just like
-us. We know or we don't, and our parents are always behind us to watch us and
+ours. We know or we don't, and our parents are always behind us to watch us and
 take care of us. The cost might be their youth, their career, their health, or
 their dream. We don't know or even appreciate until one day we look at them and
 realize how old they already are, and how frail they seem to be. When he could
 see his mom again, she no longer recognized him but that name *Puffy* could
 still evoke her deep memory about that kid, who she always worries about.
 
-How about the love? The love with Sarah, that lady, who I made so much fuss
-with, who seemed to be someone interacts with Mr. Banks awkwardly. This just
+How about the love? The love with Sarah, that lady, who he made so much fuss
+with, who seemed to be someone interacted with Mr. Banks awkwardly. This just
 reminds me of the love I could find in Austin's novels. You never expect a true
 love to be there waiting for you and you can get it easily but you always have
 to take a rollercoaster and fight over the obstacles to win the final triumph.
@@ -74,5 +74,5 @@ temper like a monster, while that is always something the life could give us as
 its best gift.
 
 Mr. Banks might live in that shed built by Jennifer, and became the *Uncle* of
-her children, and see their growth, take care of them and also be taken care
+her future children, and see their growth, take care of them and also be taken care
 of, as parents towards kids, and kids parents.
