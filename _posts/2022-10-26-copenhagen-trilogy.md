@@ -7,8 +7,8 @@ tags: [non-fiction, memoir, youth, addiction]
 comments: true
 ---
 
-I am trying to build a morning route, when I could have my own time to do
-something I want. And the route now shows itself as reading books, with one as
+I am trying to build a morning routine, when I could have my own time to do
+something I want. And the routine now shows itself as reading books, with one as
 English and one as Chinese. That works well by far, and every morning, with a
 hot coffee by the left hand, I sit at the table with the book and enjoy that
 wonderful time.
