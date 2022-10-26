@@ -21,7 +21,7 @@ you with splendid views you couldn't imagine otherwise, and you might spot
 something mundane which you could connect to yourself, and you might start to
 think about yourself, about the deep questions we all dodge everyday.
 
-![Copenhagen](images/copenhagen.png)
+![Copenhagen](/images/copenhagen.png)
 
 It is about a girl, her childhood, her youth, and her dependency. 
 
@@ -30,15 +30,15 @@ young, the life seemed to be miserable, when his father was unemployed and they
 could only live on welfare, and also she couldn't go to the high school even
 though she was gifted and wanted to do that. The relationship was odd with her
 parents and her brother. She was not allowed to be ambitious to become a
-writer, or poet, even though her father read and talked politics. Her mother was more
+writer, or poet, even though her father read books and talked politics. Her mother was more
 worldly and cared nothing about spirit or soul. She was ugly, so she always
 lived in a way that she was compared to her handsome brother and was laughed at.
 
 When she grew old, and left the school to start work, she kept his dream to
 become a writer and tried to write poems and sent several to an editor. The
 editor didn't dislike them but claimed the poems were too childish, and wanted
-her to come back later. She was not discouraged by this rejection, but kept
-writing, until one day she read the obituary at his father's newspaper. The
+her to come back years later. She was not discouraged by this rejection, but kept
+writing, until one day she read the obituary of that editor at his father's newspaper. The
 world seemed to collapse in front of her and her dream was shattered. After
 changing several jobs, she went to pubs with her friend and finally was able to
 contact another editor *Moller*, who became her first husband later. He was
@@ -64,7 +64,7 @@ While I was reading the book, I thought it was a novel to show a girl's
 dramatic life. And the author tried to make it feel like real by giving some
 mundane details and also some dramatic elements to grip your attention. But
 when I know it's a non-fiction after looking up, it overwhelmed me greatly for
-its details and vivid feel, esp. it's like you who was going through those
+its details and vivid feeling, esp. it's like you who was going through those
 sufferings with *Carl* and later in the rehab. It's also hard for me to imagine
 how life was in Denmark 70 years ago.
 
