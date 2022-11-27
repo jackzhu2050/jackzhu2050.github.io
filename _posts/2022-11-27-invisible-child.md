@@ -16,25 +16,25 @@ Talking about children is not easy which you always have to talk about the famil
 they have to move around to find shelters and switch schools for many times within a year, what we might 
 be able to expect from them? That might be why a stable life for raising a kid is so important. Without a
 stable life, incl. housing, food, schooling, is bad for the kids, without the presence of their parents is 
-even worse, after the removal of the custody for some poor families.
+even worse, after the removal of the custody from some poor families.
 
 ![invisible](/images/invisible.png)
 
 Dasani is not a lucky girl, but she is so common and should be able to represent. She tried to be good, and
-made some nice achievements in sports and schooling, but the tight-coupling family is always there to get her
+made some nice achievements in sports and at school, but the tight-coupling family is always there to get her
 distracted, because she is the biggest kid of the big family and she is more a mother sibling to other kids.
 Choosing to fight or fly with good grades to gain the respect was not a difficult problem, because the former
 one is always quick to approach to let your name known. And she has to protect her siblings.
 
-Dasani is also lucky because of the author's frontpage report in New York Times which made her a celebrity to
+Dasani is also lucky because of the author's frontpage reports on New York Times which made her a celebrity to
 gain some benefits immediately, e.g attending some political events, being enrolled to the Hershey, better life
 condition, etc. But a year later, things became what it was and no one remembered her any longer. With some struggle
 in Hershey, she was expelled later and sent back to Brooklyn, where her parents' custody was at the risk of being
 removed. She might regret later about her expulsion, but was that all her fault? If there was no bad news from her
 family, and if her parents were good, what might be different? 
 
-At the end, surely there's no end, because Dasani and her family's life is still going, she was able to reunite with
-her parents and several of her siblings, and she might have to move from shelters to shelters, but now she is adult
+At the end, surely there's no end, because Dasani and her family's life are still going on, she was able to reunite with
+her parents and several of her siblings, and she might have to move from shelters to shelters, but now she is an adult
 and she could use her life better.
 
 The narrative is very vivid and detailed. At the first glance, I thought it was a novel, but over the course, the 
@@ -50,5 +50,5 @@ careful disinterested standpoint(or at least she tries to keep at that position)
 to know the bigger picture in the history's perspective. Therefore, the outcome is stunning and remarkable. After reading it, 
 many will disagree, but they also know the life of that family and the history of the tragedy, that's very important because
 now we know each other and won't shout at each other without any ground. That's a very important step to reach a better
-state for those similar families, for a better society, and more importantly for those invisible children, who shapes our
+state for those similar families, for a better society, and more importantly for those invisible children, who shapes the
 future.
